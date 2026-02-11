@@ -30,7 +30,7 @@ The goal at that time was to clearly understand how React handled input state, r
 
 ## 📸 Screenshots
 
-<!-- Add your screenshots below -->
+<img width="940" height="772" alt="Image" src="https://github.com/user-attachments/assets/5df9cce5-8b28-4849-978a-386634a28047" />
 
 ---
 
